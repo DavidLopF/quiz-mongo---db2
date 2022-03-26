@@ -1,0 +1,15 @@
+{
+  "name": "taller_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "querys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david lopez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "mongoose": "^5.13.8"
+  }
+}
