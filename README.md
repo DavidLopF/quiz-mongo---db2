@@ -4,7 +4,7 @@
 </p>
 </div> 
 
-# Presentado por: David Leonardo, Lopez Forero
+Presentado por: David Leonardo Lopez Forero
 
 # Información importante
 
