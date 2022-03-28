@@ -14,4 +14,4 @@ Presentado por: David Leonardo Lopez Forero
 
       node querys.js
 
-- Debido a que las consultas de mongo se hacen de manera asincrona la 5 query llega priemro que la 4.
+
